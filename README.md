@@ -7,9 +7,9 @@
 
 Os arquivos Tar aninhados foram descompactados na pasta [archive_files](/archive_files).
 
-- windows: contains Windows exploits, implants and payloads
-- swift: contains operational notes from banking attacks
-- oddjob: docs related to the ODDJOB backdoor
+- windows: contém exploits, implants e payloads do Windows
+- swift: contém notas operacionais de ataques bancários
+- oddjob: documentos relacionados ao backdoor ODDJOB
 
 # Conteúdo
 # Desconhecido
